@@ -71,7 +71,7 @@ npm install supertest
 ### Files and Folders
 
 Now that we're configured, let's set up our file and folder structure. All the
-tests will be written inside a folder `test` at inside of `/app`.
+tests will be written inside a folder `test` inside of `/app`.
 
 ```bash
 mkdir test
