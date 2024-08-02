@@ -41,7 +41,7 @@ To be able to make HTTP requests inside tests, we will use [Supertest](https://g
 ### Setting up the app
 
 Clone down the starter code from [this
-repository](https://git.generalassemb.ly/sei-921/express-tdd-exercise).
+repository](https://github.com/cgodoy720/express-testing-exercise).
 Take a moment to familiarize yourself with the Express app and get everything
 set up. 
 
